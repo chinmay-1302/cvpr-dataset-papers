@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "0d52e2ba8536b2f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "25e290d3a2f8d4f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a04dab16a79df2e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "readme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11f5e95312b0c2b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "de7fae87cf71e0b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b45185e4b4c612b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f42491a9029c8e84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bf9d27f23f642512",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "744f52e8ededa443",
+    "type": "split",
+    "children": [
+      {
+        "id": "806d833f9fcb5e41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c8c5826cf5f9128",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for readme"
+            }
+          },
+          {
+            "id": "3023a39908740328",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from readme"
+            }
+          },
+          {
+            "id": "d6f4db82eec74657",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "60ab063416b2662d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "readme.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of readme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b45185e4b4c612b3",
+  "lastOpenFiles": [
+    "Real-IAD_A_Real-World_Multi-View_Dataset_for_Benchmarking_Versatile_Industrial_Anomaly_Detection.pdf",
+    "NSD-Imagery_A_benchmark_dataset_for_extending_fMRI_vision_decoding_methods_to_mental_imagery.pdf",
+    "AnimalWeb_A_Large-Scale_Hierarchical_Dataset_of_Annotated_Animal_Faces.pdf",
+    "A_large-scale_benchmark_dataset_for_event_recognition_in_surveillance_video.pdf",
+    "Towards_Modern_Image_Manipulation_Localization_A_Large-Scale_Dataset_and_Novel_Methods.pdf",
+    "JRDB-Pose_A_Large-Scale_Dataset_for_Multi-Person_Pose_Estimation_and_Tracking.pdf",
+    "Unconfirmed 539365.crdownload",
+    "BDD100K_A_Diverse_Driving_Dataset_for_Heterogeneous_Multitask_Learning.pdf",
+    "Google_Landmarks_Dataset_v2__A_Large-Scale_Benchmark_for_Instance-Level_Recognition_and_Retrieval.pdf",
+    "AutoMine_An_Unmanned_Mine_Dataset.pdf",
+    "Scalability_in_Perception_for_Autonomous_Driving_Waymo_Open_Dataset.pdf",
+    "readme.md"
+  ]
+}
