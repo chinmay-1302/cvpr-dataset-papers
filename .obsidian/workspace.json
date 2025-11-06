@@ -169,8 +169,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "b45185e4b4c612b3",
+  "active": "a04dab16a79df2e6",
   "lastOpenFiles": [
+    "ZeroWaste_Dataset_Towards_Deformable_Object_Segmentation_in_Cluttered_Scenes.pdf",
     "Real-IAD_A_Real-World_Multi-View_Dataset_for_Benchmarking_Versatile_Industrial_Anomaly_Detection.pdf",
     "NSD-Imagery_A_benchmark_dataset_for_extending_fMRI_vision_decoding_methods_to_mental_imagery.pdf",
     "AnimalWeb_A_Large-Scale_Hierarchical_Dataset_of_Annotated_Animal_Faces.pdf",
@@ -181,7 +182,6 @@
     "BDD100K_A_Diverse_Driving_Dataset_for_Heterogeneous_Multitask_Learning.pdf",
     "Google_Landmarks_Dataset_v2__A_Large-Scale_Benchmark_for_Instance-Level_Recognition_and_Retrieval.pdf",
     "AutoMine_An_Unmanned_Mine_Dataset.pdf",
-    "Scalability_in_Perception_for_Autonomous_Driving_Waymo_Open_Dataset.pdf",
     "readme.md"
   ]
 }
