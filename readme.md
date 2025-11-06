@@ -22,9 +22,7 @@ Datasets drive vision progress, yet existing driving datasets are impoverished i
 </details>
 <details>
 <summary>
-<a href="
-https://ieeexplore.ieee.org/document/9879019
-">
+<a href="https://ieeexplore.ieee.org/document/9879019">
 AutoMine: An Unmanned Mine Dataset
 </a></summary>
 <p>
@@ -33,9 +31,7 @@ Autonomous driving datasets have played an important role in validating the adva
 </details>
 <details>
 <summary>
-<a href="
-https://ieeexplore.ieee.org/document/9157053
-">
+<a href="https://ieeexplore.ieee.org/document/9157053">
 Google Landmarks Dataset v2 – A Large-Scale Benchmark for Instance-Level Recognition and Retrieval
 </a></summary>
 <p>
@@ -44,9 +40,7 @@ While image retrieval and instance recognition techniques are progressing rapidl
 </details>
 <details>
 <summary>
-<a href="
-https://ieeexplore.ieee.org/document/10205454
-">
+<a href="https://ieeexplore.ieee.org/document/10205454">
 Towards Artistic Image Aesthetics Assessment: a Large-scale Dataset and a New Method
 </a></summary>
 <p>
@@ -55,9 +49,7 @@ Image aesthetics assessment (IAA) is a challenging task due to its highly subjec
 </details>
 <details>
 <summary>
-<a href="
-https://ieeexplore.ieee.org/document/10656008
-">
+<a href="https://ieeexplore.ieee.org/document/10656008">
 Towards Modern Image Manipulation Localization: A Large-Scale Dataset and Novel Methods
 </a></summary>
 <p>
@@ -66,9 +58,7 @@ In recent years, image manipulation localization has attracted increasing attent
 </details>
 <details>
 <summary>
-<a href="
-https://ieeexplore.ieee.org/document/10204595
-">
+<a href="https://ieeexplore.ieee.org/document/10204595">
 JRDB-Pose: A Large-Scale Dataset for Multi-Person Pose Estimation and Tracking
 </a></summary>
 <p>
@@ -77,9 +67,7 @@ Autonomous robotic systems operating in human environments must understand their
 </details>
 <details>
 <summary>
-<a href="
-https://ieeexplore.ieee.org/document/9156686
-">
+<a href="https://ieeexplore.ieee.org/document/9156686">
 DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection
 </a></summary>
 <p>
@@ -88,9 +76,7 @@ We present our on-going effort of constructing a large- scale benchmark for face
 </details>
 <details>
 <summary>
-<a href="
-https://ieeexplore.ieee.org/document/5995586
-">
+<a href="https://ieeexplore.ieee.org/document/5995586">
 A large-scale benchmark dataset for event recognition in surveillance video
 </a></summary>
 <p>
@@ -99,9 +85,7 @@ We introduce a new large-scale video dataset designed to assess the performance 
 </details>
 <details>
 <summary>
-<a href="
-https://ieeexplore.ieee.org/document/9156308
-">
+<a href="https://ieeexplore.ieee.org/document/9156308">
 AnimalWeb: A Large-Scale Hierarchical Dataset of Annotated Animal Faces
 </a></summary>
 <p>
@@ -110,9 +94,7 @@ Several studies show that animal needs are often expressed through their faces. 
 </details>
 <details>
 <summary>
-<a href="
-https://ieeexplore.ieee.org/document/11094675
-">
+<a href="https://ieeexplore.ieee.org/document/11094675">
 NSD-Imagery: A benchmark dataset for extending fMRI vision decoding methods to mental imagery
 </a></summary>
 <p>
@@ -121,9 +103,7 @@ We release NSD-Imagery, a benchmark dataset of human fMRI activity paired with m
 </details>
 <details>
 <summary>
-<a href="
-https://ieeexplore.ieee.org/document/10658200
-">
+<a href="https://ieeexplore.ieee.org/document/10658200">
 Real-IAD: A Real-World Multi-View Dataset for Benchmarking Versatile Industrial Anomaly Detection
 </a></summary>
 <p>
@@ -132,9 +112,7 @@ Industrial anomaly detection (I AD) has garnered signif-icant attention and expe
 </details>
 <details>
 <summary>
-<a href="
-https://ieeexplore.ieee.org/document/10658179
-">
+<a href="https://ieeexplore.ieee.org/document/10658179">
 TUMTraf V2X Cooperative Perception Dataset
 </a></summary>
 <p>
@@ -143,9 +121,7 @@ Cooperative perception offers several benefits for en-hancing the capabilities o
 </details>
 <details>
 <summary>
-<a href="
-https://ieeexplore.ieee.org/document/9880410
-">
+<a href="https://ieeexplore.ieee.org/document/9880410">
 GrainSpace: A Large-scale Dataset for Fine-grained and Domain-adaptive Recognition of Cereal Grains
 </a></summary>
 <p>
