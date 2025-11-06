@@ -13,9 +13,7 @@ The research community has increasing interest in autonomous driving research, d
 </details>
 <details>
 <summary>
-<a href="
-https://ieeexplore.ieee.org/document/9156329
-">
+<a href="https://ieeexplore.ieee.org/document/9156329">
 BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning
 </a></summary>
 <p>
